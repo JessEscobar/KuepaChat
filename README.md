@@ -1,6 +1,6 @@
 # KuepaChat
 
-## Pasos para poder visualzar el proyecto:
+## Pasos para poder visualizar el proyecto:
 
 1. Descargar el repositorio en el equipo local.
 2. Instalar las siguienttes dependencias.
@@ -23,4 +23,8 @@ se debe visualizar en la consola los siguiente:
 Servidor conectado 3000
 ```
 4. Abrir una pestaña de un navegador e ir al http://localhost:3000/, se deberia visualizar los siguiente:
+
+![texto cualquiera por si no carga la imagen](https://github.com/JessEscobar/KuepaChat/blob/main/img/ChatKuepa.png)
+
+5. ¡¡Listo!! ya puedes utilziar el chat con más de una persona a la vez 
 
