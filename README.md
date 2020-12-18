@@ -26,5 +26,5 @@ Servidor conectado 3000
 
 ![texto cualquiera por si no carga la imagen](https://github.com/JessEscobar/KuepaChat/blob/main/img/ChatKuepa.png)
 
-5. ¡¡Listo!! ya puedes utilziar el chat con más de una persona a la vez 
+5. ¡¡Listo!! ya puedes utilizar el chat con más de una persona a la vez 
 
